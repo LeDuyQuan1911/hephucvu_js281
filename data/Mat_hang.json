@@ -1,0 +1,452 @@
+[
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884aaf"
+        },
+        "Ten": "Cafe Expresso",
+        "Ma_so": "CA_PHE_1",
+        "Don_gia_Ban": 45000,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ab0"
+        },
+        "Ten": "Cafe Americano",
+        "Ma_so": "CA_PHE_2",
+        "Don_gia_Ban": 28800,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ab1"
+        },
+        "Ten": "Cafe sữa",
+        "Ma_so": "CA_PHE_3",
+        "Don_gia_Ban": 20000,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ab2"
+        },
+        "Ten": "Cafe Mocha",
+        "Ma_so": "CA_PHE_4",
+        "Don_gia_Ban": 50000,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ab4"
+        },
+        "Ten": "Cafe Cappuccino",
+        "Ma_so": "CA_PHE_5",
+        "Don_gia_Ban": 37600,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ab3"
+        },
+        "Ten": "Caramel Frappuccino",
+        "Ma_so": "CA_PHE_6",
+        "Don_gia_Ban": 39800,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ab5"
+        },
+        "Ten": "Caramel Macchiato",
+        "Ma_so": "CA_PHE_7",
+        "Don_gia_Ban": 34200,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ab6"
+        },
+        "Ten": "Mocha Frappuccino",
+        "Ma_so": "CA_PHE_8",
+        "Don_gia_Ban": 31600,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ab7"
+        },
+        "Ten": "Frappuccino",
+        "Ma_so": "CA_PHE_9",
+        "Don_gia_Ban": 31400,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ab8"
+        },
+        "Ten": "Espresso Con Panna",
+        "Ma_so": "CA_PHE_10",
+        "Don_gia_Ban": 35800,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ab9"
+        },
+        "Ten": "Espresso Macchiato",
+        "Ma_so": "CA_PHE_11",
+        "Don_gia_Ban": 37600,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884aba"
+        },
+        "Ten": "Cafe Americano Đá",
+        "Ma_so": "CA_PHE_12",
+        "Don_gia_Ban": 27000,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884abb"
+        },
+        "Ten": "Cafe Sữa Đá",
+        "Ma_so": "CA_PHE_13",
+        "Don_gia_Ban": 33800,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884abc"
+        },
+        "Ten": "Mocha Đá",
+        "Ma_so": "CA_PHE_14",
+        "Don_gia_Ban": 35000,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884abd"
+        },
+        "Ten": "Caramel Macchiato Đá",
+        "Ma_so": "CA_PHE_15",
+        "Don_gia_Ban": 40000,
+        "Nhom_Mat_hang": {
+            "Ten": "Cafe",
+            "Ma_so": "CA_PHE"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884abe"
+        },
+        "Ten": "Gà tắm nước mắm",
+        "Ma_so": "MON_AN_1",
+        "Don_gia_Ban": 17000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884abf"
+        },
+        "Ten": "Hamburger gà Creole",
+        "Ma_so": "MON_AN_2",
+        "Don_gia_Ban": 20000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ac0"
+        },
+        "Ten": "Cơm Gà",
+        "Ma_so": "MON_AN_3",
+        "Don_gia_Ban": 29000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ac1"
+        },
+        "Ten": "Khoai tây chiên",
+        "Ma_so": "MON_AN_4",
+        "Don_gia_Ban": 14000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ac2"
+        },
+        "Ten": "Bắp cải trộn",
+        "Ma_so": "MON_AN_5",
+        "Don_gia_Ban": 5000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ac3"
+        },
+        "Ten": "Khoai tây nghiền",
+        "Ma_so": "MON_AN_6",
+        "Don_gia_Ban": 20000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ac4"
+        },
+        "Ten": "Hamburger Gà Cajun",
+        "Ma_so": "MON_AN_7",
+        "Don_gia_Ban": 20000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ac5"
+        },
+        "Ten": "Gà giòn không xương",
+        "Ma_so": "MON_AN_8",
+        "Don_gia_Ban": 12000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ac6"
+        },
+        "Ten": "Cơm gà sốt đậu",
+        "Ma_so": "MON_AN_9",
+        "Don_gia_Ban": 30000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ac7"
+        },
+        "Ten": "Gà sốt phô mai",
+        "Ma_so": "MON_AN_10",
+        "Don_gia_Ban": 27000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ac8"
+        },
+        "Ten": "Gà sốt đậu",
+        "Ma_so": "MON_AN_11",
+        "Don_gia_Ban": 25000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884ac9"
+        },
+        "Ten": "Gà sốt cay",
+        "Ma_so": "MON_AN_12",
+        "Don_gia_Ban": 30000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614d8032171fd0884aca"
+        },
+        "Ten": "Gà sốt tiêu",
+        "Ma_so": "MON_AN_13",
+        "Don_gia_Ban": 10000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614e8032171fd0884acb"
+        },
+        "Ten": "Gà chiên Texas",
+        "Ma_so": "MON_AN_14",
+        "Don_gia_Ban": 29000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    },
+    {
+        "_id": {
+            "$oid": "5d5c614e8032171fd0884acc"
+        },
+        "Ten": "Bánh nướng mật ong",
+        "Ma_so": "MON_AN_15",
+        "Don_gia_Ban": 22000,
+        "Nhom_Mat_hang": {
+            "Ten": "Món ăn",
+            "Ma_so": "MON_AN"
+        },
+        "Danh_sach_Phieu_Dat": [],
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": []
+    }
+]

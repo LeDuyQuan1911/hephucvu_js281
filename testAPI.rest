@@ -1,0 +1,17 @@
+GET http://localhost:8080/dsHocsinh
+###
+GET http://localhost:8080/dsTivi
+
+###
+GET http://localhost:8080/dsDienthoai
+###
+POST http://localhost:8080/Dangnhap
+Content-Type: application/json
+
+{
+    "Ten_Dang_nhap": "NV_100",
+    "Mat_khau": "NV_1000"
+}
+###
+POST http://localhost:8080/Lienhe
+
